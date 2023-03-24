@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+dash
+dash-bootstrap-components
+plotly
+folium
+ftfy
