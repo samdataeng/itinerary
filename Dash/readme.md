@@ -1,8 +1,8 @@
 With Docker :
 - pull the image from DockerHub :
-docker pull samiadata/itinerary_dash:1.1.0
+docker pull samiadata/itinerary_dash:1.2.0
 - run the container :
-docker run -p 8050:8050 samiadata/itinerary_dash:1.1.0
+docker run -p 8050:8050 samiadata/itinerary_dash:1.2.0
 - go to :
 `http://localhost:8050`
 
